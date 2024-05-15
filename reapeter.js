@@ -28,7 +28,7 @@ newImageSet.forEach(imag => {
     console.log(imag);
     image.style.width = '14px'
     image.style.transform = `rotate(${randomAngle}deg)`
-    image.style.opacity = '100%'
+    image.style.opacity = '3%'
     image.style.padding = '10px'
 })
 
